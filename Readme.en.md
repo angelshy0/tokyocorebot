@@ -52,7 +52,7 @@ pip install python-telegram-bot pillow python-dotenv
 | Action                | Description                          |
 |-----------------------|--------------------------------------|
 | `/start`              | Initialize profile                  |
-| `⚡ CHARGE CORE`       | +7291 Volts (gamification)          |
+| `⚡ CHARGE CORE`       | +1 Volts (gamification)          |
 | `🎖️ CYBER RANKING`    | Show top-10 players                 |
 | `admin` command       | System status (admin-only)          |
 
