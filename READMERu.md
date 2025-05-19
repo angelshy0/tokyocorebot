@@ -31,7 +31,7 @@ RANKS = {
 ## 🛠️ Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/tokyo-core-bot.git
+git clone https://github.com/angelshy0/tokyocorebot.git
 ```
 
 2. Установите зависимости:
